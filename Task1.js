@@ -2,4 +2,4 @@
 let secondsInMinute = 60;
 let minuteInHour = 60;
 let secondsInHour = secondsInMinute * minuteInHour;
-secondsInHour
+console.log(secondsInHour);
