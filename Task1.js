@@ -6,6 +6,5 @@ let hourInDay = 24;
 let secondInDay = secondsInHour * hourInDay;
 let daysInYear = 365;
 let secnodsInYear = daysInYear * secondInDay;
-let age = 23;
+let age = prompt(how old are you,[]);
 let ageInSecond = age * secnodsInYear;
-console (ageInSecond);
